@@ -6,6 +6,6 @@ other languages and their frameworks.
 
 ## Github Stats
 <div>
-    <img height="120em" src="https://github-readme-stats.vercel.app/api?username=c-sant&show_icons=true&theme=github_dark&hide=contribs,prs&include_all_commits=True"/> 
     <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c-sant&layout=compact&theme=github_dark&langs_count=16&custom_title=Languages"/>
+    <img height="120em" src="https://github-readme-stats.vercel.app/api?username=c-sant&show_icons=true&theme=github_dark&hide=contribs,prs&include_all_commits=True"/> 
 </div>
